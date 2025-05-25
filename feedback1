@@ -1,0 +1,7 @@
+cd C:\forGitHub
+git init                                 
+git add README.md       
+git commit -m "Add README"               
+git branch -M main                       
+git remote add origin https://github.com/kotayamagishivp330/nn-feedback-test.git  
+git push -u origin main                   
